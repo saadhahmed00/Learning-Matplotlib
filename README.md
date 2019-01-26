@@ -1,2 +1,2 @@
 # Learning-Matplotlib
-Basic Matplotlib Projects
+Basic Matplotlib Projects done through the Codecademy Data Visualization course
